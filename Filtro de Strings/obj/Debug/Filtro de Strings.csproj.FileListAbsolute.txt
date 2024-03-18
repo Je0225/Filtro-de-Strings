@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Filtro de Strings\Filtro de Strings\bin\Debug\Filtro de Strings.exe.config
+C:\Users\User\Documents\Filtro de Strings\Filtro de Strings\bin\Debug\Filtro de Strings.exe
+C:\Users\User\Documents\Filtro de Strings\Filtro de Strings\bin\Debug\Filtro de Strings.pdb
+C:\Users\User\Documents\Filtro de Strings\Filtro de Strings\obj\Debug\Filtro de Strings.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Filtro de Strings\Filtro de Strings\obj\Debug\Filtro_de_Strings.FormPrincipal.resources
+C:\Users\User\Documents\Filtro de Strings\Filtro de Strings\obj\Debug\Filtro_de_Strings.Properties.Resources.resources
+C:\Users\User\Documents\Filtro de Strings\Filtro de Strings\obj\Debug\Filtro de Strings.csproj.GenerateResource.cache
+C:\Users\User\Documents\Filtro de Strings\Filtro de Strings\obj\Debug\Filtro de Strings.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Filtro de Strings\Filtro de Strings\obj\Debug\Filtro de Strings.exe
+C:\Users\User\Documents\Filtro de Strings\Filtro de Strings\obj\Debug\Filtro de Strings.pdb
